@@ -26,6 +26,8 @@ Installation instructions: this requires both node.js and inquirer.  We then ope
 
 Usage instructions: To create a professional read me file
 
+![alt text](./read-generator/img/capture.JPG)
+
 ## Contributing:
 
 Want to contriubte? Here's the guidelines: NA
