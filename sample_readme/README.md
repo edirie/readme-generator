@@ -40,7 +40,7 @@ This application is covered under the MIT license.
 
 ## My Github Account:
 
-  Click here: https://github.com/https://github.com/edirie
+  Click here: https://github.com/edirie
 
 ## Questions:
 
